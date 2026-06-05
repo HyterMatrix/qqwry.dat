@@ -1,4 +1,9 @@
 {
-  "latest": "",
-  "versions": {}
+  "latest": "20260603",
+  "versions": {
+    "20260603": {
+      "count": 1547872,
+      "unique": 174178
+    }
+  }
 }
